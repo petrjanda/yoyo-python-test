@@ -1,7 +1,7 @@
 Yoyo Test
 =========
 
-You are building a simple Python/Django-based loyally programme for a retail shop:
+You are building a simple Python/Django-based loyalty programme for a retail shop:
 
 - the shop sells two products: a widget and a gizmo
 - for each widget you buy, you earn one loyalty stamp
