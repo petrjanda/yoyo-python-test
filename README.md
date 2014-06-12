@@ -22,6 +22,7 @@ Create a set of REST APIs that allow you to:
 It is expected that you:
 - create your own data models and stub data
 - write unit tests
+- fork this repository to get started
 - commit often and push your code to GitHub
 - deploy on Heroku
 
