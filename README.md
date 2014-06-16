@@ -24,6 +24,7 @@ It is expected that you:
 - write unit tests
 - fork this repository to get started
 - commit often and push your code to GitHub
+- if for some reason you do not want to push to GitHub, use BitBucket or some other service, and invite us to view
 - deploy on Heroku
 
 BONUS: If you want to show us more, build an additional feature that extends the loyalty programme further.
